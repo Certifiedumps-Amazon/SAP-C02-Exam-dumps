@@ -1,4 +1,4 @@
-# SAP-Co2-Exam-dumps
+# SAP-C02-Exam-dumps
 # 🏆 AWS Certified Solutions Architect - Professional (SAP-C02) Exam: Your Ultimate Guide 🚀
 
 The `[[AWS Certified Solutions Architect - Professional (SAP-C02)](https://www.certifiedumps.com/amazon/sap-c02-dumps.html)] exam is a prestigious certification for cloud professionals looking to showcase their ability to design and deploy scalable, fault-tolerant systems on AWS. Aimed at experienced architects, it validates advanced skills in crafting cloud solutions that meet business and technical requirements. 🌐✨
